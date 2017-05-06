@@ -4,7 +4,7 @@
   "description": "Implementation of active record for javascript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/octarect/activerecord-js/issues"
   },
-  "homepage": "https://github.com/octarect/activerecord-js#readme"
+  "homepage": "https://github.com/octarect/activerecord-js#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0"
+  }
 }
