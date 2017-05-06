@@ -1,7 +1,7 @@
 # activerecord-js
 Implementation of active record for javascript
 
-# Example
+## Example
 Under construction
 
 ## Contribution
