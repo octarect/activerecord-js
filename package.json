@@ -16,7 +16,9 @@
     "url": "https://github.com/octarect/activerecord-js/issues"
   },
   "homepage": "https://github.com/octarect/activerecord-js#readme",
-  "dependencies": {},
+  "dependencies": {
+    "sqlite3": "^3.1.8"
+  },
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.3.0"
